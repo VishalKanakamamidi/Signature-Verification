@@ -1,0 +1,8 @@
+Account number - 0831035812761035
+Date - 03/03/2018
+Mandate Start Date - 03/03/2018
+Mandate End Date - 03/03/2020
+The Confidence Score between two images is 75.254236 percent
+The Confidence Score between two images is 100.000000 percent
+The Confidence Score between two images is 70.633965 percent
+The Final Confidence Score between two images is 81.962733 percent
